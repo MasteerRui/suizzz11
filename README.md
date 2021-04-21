@@ -2,7 +2,7 @@
 - 👀 I’m interested in code FiveM esx and same javaScript, python or lua.
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on a Discord bot
-- 📫 How to reach me just add me on Discord </suizzz>#1590
+- 📫 How to reach me just add me on Discord '</suizzz>#1590'
 
 <!---
 suizzz11/suizzz11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
